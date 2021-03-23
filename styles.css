@@ -36,7 +36,24 @@ h1{
     font-size: 18px;
     margin: 20px;
 }
+
+
 .wine-list{
-    /* list-style-image: url("/images/2-wine-glasses.jpg"); */
-    list-style-type: circle;
+   
+    list-style:circle;
 }
+
+.second-paragraph{
+    margin: 100px;
+    font-size: 16px ;
+}
+
+.classification{
+    display: flex;
+    margin: 10px 50px 10px 50px;
+}
+.classification img{
+    width: 300px;
+    margin: 10px 50px 10px 50px;
+}
+
